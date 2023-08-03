@@ -1,4 +1,4 @@
-# Walletika App Fetch
+## Fetch Walletika app data
 - App Version
 - Listed Networks
 - Listed Coins
