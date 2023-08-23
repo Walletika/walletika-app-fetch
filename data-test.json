@@ -74,6 +74,22 @@
             "image": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png"
         },
         {
+            "rpc": "https://mainnet.base.org",
+            "name": "Base Mainnet",
+            "chainID": 8453,
+            "symbol": "ETH",
+            "explorer": "https://basescan.org",
+            "image": "https://assets.coingecko.com/nft_contracts/images/2989/small/base-introduced.png"
+        },
+        {
+            "rpc": "https://goerli.base.org",
+            "name": "Base Goerli ( Testnet )",
+            "chainID": 84531,
+            "symbol": "ETH",
+            "explorer": "https://goerli.basescan.org",
+            "image": "https://assets.coingecko.com/nft_contracts/images/2989/small/base-introduced.png"
+        },
+        {
             "rpc": "https://rpcapi.fantom.network",
             "name": "Fantom Opera Mainnet",
             "chainID": 250,
@@ -244,7 +260,7 @@
             "name": "Walletika",
             "symbol": "WTK",
             "contracts": ["0xc4d3716b65b9c4c6b69e4e260b37e0e476e28d87"],
-            "price": 0.02,
+            "price": 0.30,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
         {
