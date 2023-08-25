@@ -341,6 +341,69 @@
                 "website": "https://walletika.com"
             },
             "isLocked": false
+        },
+        {
+            "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+            "contract": "0xb19d1860aE177f91D5B3C00a5C5C2d67ff326542",
+            "startBlock": 32760000,
+            "endBlock": 33624000,
+            "stakeToken": {
+                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+                "name": "Walletika",
+                "symbol": "WTK",
+                "decimals": 18,
+                "website": "https://walletika.com"
+            },
+            "rewardToken": {
+                "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "decimals": 6,
+                "website": "https://walletika.com"
+            },
+            "isLocked": true
+        },
+        {
+            "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+            "contract": "0xD63DeD35fB08B6756e1c63730FD9890372556387",
+            "startBlock": 32760000,
+            "endBlock": 33624000,
+            "stakeToken": {
+                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+                "name": "Walletika",
+                "symbol": "WTK",
+                "decimals": 18,
+                "website": "https://walletika.com"
+            },
+            "rewardToken": {
+                "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "decimals": 18,
+                "website": "https://walletika.com"
+            },
+            "isLocked": true
+        },
+        {
+            "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+            "contract": "0x2E2cC25DC2C06443F08390d74AC76710E3228d88",
+            "startBlock": 32760000,
+            "endBlock": 33624000,
+            "stakeToken": {
+                "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "decimals": 6,
+                "website": "https://walletika.com"
+            },
+            "rewardToken": {
+                "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "decimals": 18,
+                "website": "https://walletika.com"
+            },
+            "isLocked": false
         }
     ]
 }
