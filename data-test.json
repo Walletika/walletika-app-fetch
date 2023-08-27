@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0 Beta",
+    "version": "1.3.0 Beta",
     "listedNetworks": [
         {
             "rpc": "https://mainnet.infura.io/v3/0bbf89ffa7794d2f9fd1ebd4cae51edd",
