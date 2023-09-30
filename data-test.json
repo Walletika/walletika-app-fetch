@@ -303,14 +303,14 @@
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": false
         },
@@ -324,14 +324,14 @@
                 "name": "Tether USD",
                 "symbol": "USDT",
                 "decimals": 6,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": false
         },
@@ -345,14 +345,14 @@
                 "name": "USD Coin",
                 "symbol": "USDC",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": false
         },
@@ -366,14 +366,14 @@
                 "name": "Tether USD",
                 "symbol": "USDT",
                 "decimals": 6,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
                 "name": "USD Coin",
                 "symbol": "USDC",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": true
         },
@@ -387,14 +387,14 @@
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
                 "name": "Tether USD",
                 "symbol": "USDT",
                 "decimals": 6,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": true
         },
@@ -408,14 +408,14 @@
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
                 "name": "USD Coin",
                 "symbol": "USDC",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": true
         },
@@ -429,14 +429,14 @@
                 "name": "Tether USD",
                 "symbol": "USDT",
                 "decimals": 6,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
                 "name": "USD Coin",
                 "symbol": "USDC",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": false
         },
@@ -450,14 +450,14 @@
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "rewardToken": {
                 "contract": "0x8B26361df494D174e81D0E52110056362ECdD056",
                 "name": "Walletika",
                 "symbol": "WTK",
                 "decimals": 18,
-                "website": "https://walletika.com"
+                "website": "https://walletika.github.io"
             },
             "isLocked": false
         }
