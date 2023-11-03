@@ -162,6 +162,14 @@
             "image": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png"
         },
         {
+            "rpc": "https://mainnet-rpc.brisescan.com",
+            "name": "Brise Mainnet",
+            "chainID": 32520,
+            "symbol": "BRISE",
+            "explorer": "https://brisescan.com",
+            "image": "https://assets.coingecko.com/coins/images/17388/small/bitgert.png"
+        },
+        {
             "rpc": "https://mainnet.aurora.dev",
             "name": "Aurora Mainnet",
             "chainID": 1313161554,
@@ -208,14 +216,6 @@
             "symbol": "KCS",
             "explorer": "https://explorer.kcc.io",
             "image": "https://assets.coingecko.com/coins/images/1047/small/sa9z79.png"
-        },
-        {
-            "rpc": "https://mainnet-rpc.brisescan.com",
-            "name": "Brise Mainnet",
-            "chainID": 32520,
-            "symbol": "BRISE",
-            "explorer": "https://brisescan.com",
-            "image": "https://assets.coingecko.com/coins/images/17388/small/bitgert.png"
         }
     ],
     "listedCoins": [
@@ -267,14 +267,14 @@
             "name": "Walletika",
             "symbol": "WTK",
             "contracts": ["0xc4d3716b65b9c4c6b69e4e260b37e0e476e28d87"],
-            "price": 0.30,
+            "price": 0.10,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
         {
             "name": "Walletika",
             "symbol": "WTK",
             "contracts": ["0x8b26361df494d174e81d0e52110056362ecdd056"],
-            "price": 0.30,
+            "price": 0.10,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
         {
