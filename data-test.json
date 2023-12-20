@@ -235,9 +235,9 @@
         },
         {
             "rpc": "https://bsc-dataseed1.binance.org",
-            "contract": "0x8B26361df494D174e81D0E52110056362ECdD056",
+            "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
             "name": "Walletika",
-            "symbol": "WTK",
+            "symbol": "WLTK",
             "decimals": 18
         },
         {
@@ -272,8 +272,8 @@
         },
         {
             "name": "Walletika",
-            "symbol": "WTK",
-            "contracts": ["0x8b26361df494d174e81d0e52110056362ecdd056"],
+            "symbol": "WLTK",
+            "contracts": ["0xeb01eac5de8874b83a13b939a53938352f0b0b06"],
             "price": 0.15,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
@@ -379,24 +379,45 @@
         },
         {
             "rpc": "https://bsc-dataseed1.binance.org",
-            "contract": "0x919C59BD47689123C2de70d1B1b0343093C28047",
-            "startBlock": 32199040,
-            "endBlock": 42711040,
+            "contract": "0x3e62479C5228EdA936D3b115079fee9266a0ce74",
+            "startBlock": 34532757,
+            "endBlock": 45073557,
             "stakeToken": {
-                "contract": "0x8B26361df494D174e81D0E52110056362ECdD056",
+                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
                 "name": "Walletika",
-                "symbol": "WTK",
+                "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
             "rewardToken": {
-                "contract": "0x8B26361df494D174e81D0E52110056362ECdD056",
+                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
                 "name": "Walletika",
-                "symbol": "WTK",
+                "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
             "isLocked": false
+        },
+        {
+            "rpc": "https://bsc-dataseed1.binance.org",
+            "contract": "0xcF0C2E3cEB5848392C893E4876375E53B80e5508",
+            "startBlock": 34532757,
+            "endBlock": 45073557,
+            "stakeToken": {
+                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
+                "name": "Walletika",
+                "symbol": "WLTK",
+                "decimals": 18,
+                "website": "https://walletika.io"
+            },
+            "rewardToken": {
+                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
+                "name": "Walletika",
+                "symbol": "WLTK",
+                "decimals": 18,
+                "website": "https://walletika.io"
+            },
+            "isLocked": true
         }
     ]
 }
