@@ -256,25 +256,25 @@
         },
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+            "contract": "0x37e53A19d17191454A532F1706a4b99aB76D7ABf",
             "name": "Walletika",
-            "symbol": "WTK",
+            "symbol": "WLTK",
             "decimals": 18
         }
     ],
     "offlineCoins": [
         {
             "name": "Walletika",
-            "symbol": "WTK",
-            "contracts": ["0xc4d3716b65b9c4c6b69e4e260b37e0e476e28d87"],
-            "price": 0.10,
+            "symbol": "WLTK",
+            "contracts": ["0x37e53a19d17191454a532f1706a4b99ab76d7abf"],
+            "price": 0.15,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
         {
             "name": "Walletika",
             "symbol": "WTK",
             "contracts": ["0x8b26361df494d174e81d0e52110056362ecdd056"],
-            "price": 0.10,
+            "price": 0.15,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
         {
@@ -295,20 +295,20 @@
     "listedStakes": [
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0xbfAa034b854703f31B34eCC1c68C356feeb19268",
-            "startBlock": 23545120,
-            "endBlock": 128636320,
+            "contract": "0xa529929Ea6C87aFCB95c3c45618172Bfb4C17688",
+            "startBlock": 36121395,
+            "endBlock": 46979475,
             "stakeToken": {
-                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+                "contract": "0x37e53A19d17191454A532F1706a4b99aB76D7ABf",
                 "name": "Walletika",
-                "symbol": "WTK",
+                "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
             "rewardToken": {
-                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+                "contract": "0x37e53A19d17191454A532F1706a4b99aB76D7ABf",
                 "name": "Walletika",
-                "symbol": "WTK",
+                "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
@@ -316,9 +316,9 @@
         },
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0x3B4032ac96541fCf02e84F383b547daBA5490aCf",
-            "startBlock": 33795617,
-            "endBlock": 44307617,
+            "contract": "0xc57672900953d6d60ff5257963De90BB9a97bBE8",
+            "startBlock": 36121395,
+            "endBlock": 46979475,
             "stakeToken": {
                 "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
                 "name": "Tether USD",
@@ -327,9 +327,9 @@
                 "website": "https://walletika.io"
             },
             "rewardToken": {
-                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+                "contract": "0x37e53A19d17191454A532F1706a4b99aB76D7ABf",
                 "name": "Walletika",
-                "symbol": "WTK",
+                "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
@@ -337,9 +337,9 @@
         },
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0xAf02FC0b7869208C1Fb2092D04bF462737931879",
-            "startBlock": 33790643,
-            "endBlock": 44302643,
+            "contract": "0x1C542634D2Feb065E0f681F256fA380C9bdE9F74",
+            "startBlock": 36121395,
+            "endBlock": 46979475,
             "stakeToken": {
                 "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
                 "name": "USD Coin",
@@ -348,9 +348,9 @@
                 "website": "https://walletika.io"
             },
             "rewardToken": {
-                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+                "contract": "0x37e53A19d17191454A532F1706a4b99aB76D7ABf",
                 "name": "Walletika",
-                "symbol": "WTK",
+                "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
@@ -376,69 +376,6 @@
                 "website": "https://walletika.io"
             },
             "isLocked": true
-        },
-        {
-            "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0xb19d1860aE177f91D5B3C00a5C5C2d67ff326542",
-            "startBlock": 32760000,
-            "endBlock": 33624000,
-            "stakeToken": {
-                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
-                "name": "Walletika",
-                "symbol": "WTK",
-                "decimals": 18,
-                "website": "https://walletika.io"
-            },
-            "rewardToken": {
-                "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
-                "name": "Tether USD",
-                "symbol": "USDT",
-                "decimals": 6,
-                "website": "https://walletika.io"
-            },
-            "isLocked": true
-        },
-        {
-            "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0xD63DeD35fB08B6756e1c63730FD9890372556387",
-            "startBlock": 32760000,
-            "endBlock": 33624000,
-            "stakeToken": {
-                "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
-                "name": "Walletika",
-                "symbol": "WTK",
-                "decimals": 18,
-                "website": "https://walletika.io"
-            },
-            "rewardToken": {
-                "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
-                "name": "USD Coin",
-                "symbol": "USDC",
-                "decimals": 18,
-                "website": "https://walletika.io"
-            },
-            "isLocked": true
-        },
-        {
-            "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0x2E2cC25DC2C06443F08390d74AC76710E3228d88",
-            "startBlock": 32760000,
-            "endBlock": 33624000,
-            "stakeToken": {
-                "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
-                "name": "Tether USD",
-                "symbol": "USDT",
-                "decimals": 6,
-                "website": "https://walletika.io"
-            },
-            "rewardToken": {
-                "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
-                "name": "USD Coin",
-                "symbol": "USDC",
-                "decimals": 18,
-                "website": "https://walletika.io"
-            },
-            "isLocked": false
         },
         {
             "rpc": "https://bsc-dataseed1.binance.org",
