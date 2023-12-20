@@ -235,7 +235,7 @@
         },
         {
             "rpc": "https://bsc-dataseed1.binance.org",
-            "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
+            "contract": "0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b",
             "name": "Walletika",
             "symbol": "WLTK",
             "decimals": 18
@@ -273,7 +273,7 @@
         {
             "name": "Walletika",
             "symbol": "WLTK",
-            "contracts": ["0xeb01eac5de8874b83a13b939a53938352f0b0b06"],
+            "contracts": ["0x9ee10d2e9571aecfe5a604af7fe71b96eba84b7b"],
             "price": 0.15,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
@@ -379,18 +379,18 @@
         },
         {
             "rpc": "https://bsc-dataseed1.binance.org",
-            "contract": "0x3e62479C5228EdA936D3b115079fee9266a0ce74",
+            "contract": "0xddcc8B65bcC22D9386d6Aa0BF6e66d6c00e54EdD",
             "startBlock": 34532757,
             "endBlock": 45073557,
             "stakeToken": {
-                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
+                "contract": "0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b",
                 "name": "Walletika",
                 "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
             "rewardToken": {
-                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
+                "contract": "0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b",
                 "name": "Walletika",
                 "symbol": "WLTK",
                 "decimals": 18,
@@ -400,18 +400,18 @@
         },
         {
             "rpc": "https://bsc-dataseed1.binance.org",
-            "contract": "0xcF0C2E3cEB5848392C893E4876375E53B80e5508",
+            "contract": "0x371FB2da08698AFEa799fBDc553DFfBFBeeC9F6E",
             "startBlock": 34532757,
             "endBlock": 45073557,
             "stakeToken": {
-                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
+                "contract": "0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b",
                 "name": "Walletika",
                 "symbol": "WLTK",
                 "decimals": 18,
                 "website": "https://walletika.io"
             },
             "rewardToken": {
-                "contract": "0xeB01EaC5De8874B83A13b939A53938352F0b0b06",
+                "contract": "0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b",
                 "name": "Walletika",
                 "symbol": "WLTK",
                 "decimals": 18,
