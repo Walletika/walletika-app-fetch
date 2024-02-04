@@ -266,14 +266,7 @@
         {
             "name": "Walletika",
             "symbol": "WLTK",
-            "contracts": ["0x37e53a19d17191454a532f1706a4b99ab76d7abf"],
-            "price": 0.15,
-            "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
-        },
-        {
-            "name": "Walletika",
-            "symbol": "WLTK",
-            "contracts": ["0x9ee10d2e9571aecfe5a604af7fe71b96eba84b7b"],
+            "contracts": ["0x9ee10d2e9571aecfe5a604af7fe71b96eba84b7b", "0x37e53a19d17191454a532f1706a4b99ab76d7abf"],
             "price": 0.15,
             "image": "https://raw.githubusercontent.com/Walletika/walletika-app-fetch/main/images/walletika.png"
         },
