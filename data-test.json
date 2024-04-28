@@ -273,9 +273,15 @@
         {
             "name": "Tether USD",
             "symbol": "USDT",
-            "contracts": ["0x8ca86f6ee71ee4b951279711341f051195b188f8", "0x55d398326f99059ff775485246999027b3197955"],
+            "contracts": ["0x8ca86f6ee71ee4b951279711341f051195b188f8"],
             "price": 1.0,
             "image": "https://assets.coingecko.com/coins/images/325/small/Tether.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "contracts": ["0x55d398326f99059ff775485246999027b3197955"],
+            "id": "tether"
         },
         {
             "name": "USD Coin",
